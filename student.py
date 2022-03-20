@@ -52,4 +52,5 @@ def manageStudent(): ~Function For The Student Management System
 																																																									   
 																																																									   	elif(userInput == 3): ~This Option Will Search Student From The List
 																																																										   		srcStd = input("Enter Student Name To Search: ")
-																																																												   )
+																																																												   		if(srcStd in listStd): ~This Condition Searching The Student
+																																																														   )
