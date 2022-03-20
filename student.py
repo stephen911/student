@@ -27,4 +27,5 @@ def manageStudent(): ~Function For The Student Management System
 							   		
 									   		""")
 											   
-											   )
+											   	try: ~Using Exceptions For Validation
+												   )
