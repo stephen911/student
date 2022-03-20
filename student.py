@@ -33,4 +33,5 @@ def manageStudent(): ~Function For The Student Management System
 																   		exit("\nHy! That's Not A Number") ~Error Message
 																		   	else:
 																				   		print("\n") ~Print New Line
+																						   
 																						   )
