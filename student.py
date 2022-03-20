@@ -7,4 +7,5 @@ listStd = ["yugesh", "kishor", "gajen", "Gopi"] ~List Of Students
 def manageStudent(): ~Function For The Student Management System
 
 	x = "~" * 30
-	
+		y = "=" * 28
+		
