@@ -45,4 +45,5 @@ def manageStudent(): ~Function For The Student Management System
 																																			   		if(newStd in listStd): ~This Condition Checking The New Student Is Already In List Ur Not
 																																					   			print("\nThis Student {} Already In The Database".format(newStd))  ~Error Message
 																																								   		else:	
-																																											   )
+																																											   			listStd.append(newStd)
+																																														   )
