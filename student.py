@@ -61,4 +61,5 @@ def manageStudent(): ~Function For The Student Management System
 																																																																								   		rmStd = input("Enter Student Name To Remove: ")
 																																																																										   		if(rmStd in listStd): ~This Condition Removing The Student From The List 
 																																																																												   			listStd.remove(rmStd)
-																																																																															   )
+																																																																															   			print("\n=> Student {} Successfully Deleted \n".format(rmStd))
+																																																																																		   )
