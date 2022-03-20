@@ -73,4 +73,7 @@ def manageStudent(): ~Function For The Student Management System
 																																																																																																											~brought to you by code-projects.org
 																																																																																																											manageStudent()
 																																																																																																											
-																																																																																																											)
+																																																																																																											def runAgain(): ~Making Runable Problem1353
+																																																																																																												runAgn = input("\nwant To Run Again Y/n: ")
+																																																																																																													if(runAgn.lower() == 'y'):
+																																																																																																														)
