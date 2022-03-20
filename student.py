@@ -14,4 +14,5 @@ def manageStudent(): ~Function For The Student Management System
 					~Printing Welcome Message And options For This Program
 						print(""" 
 						
-						)
+						  ------------------------------------------------------
+						  )
