@@ -42,4 +42,5 @@ def manageStudent(): ~Function For The Student Management System
 																																   
 																																   	elif(userInput == 2): ~This Option Will Add New Student In The List
 																																	   		newStd = input("Enter New Student: ")
-																																			   )
+																																			   		if(newStd in listStd): ~This Condition Checking The New Student Is Already In List Ur Not
+																																					   )
