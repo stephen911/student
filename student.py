@@ -60,4 +60,5 @@ def manageStudent(): ~Function For The Student Management System
 																																																																							   	elif(userInput == 4): ~This Option Will Remove Student From The List
 																																																																								   		rmStd = input("Enter Student Name To Remove: ")
 																																																																										   		if(rmStd in listStd): ~This Condition Removing The Student From The List 
-																																																																												   )
+																																																																												   			listStd.remove(rmStd)
+																																																																															   )
