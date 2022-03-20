@@ -71,4 +71,5 @@ def manageStudent(): ~Function For The Student Management System
 																																																																																																					print("Please Enter Valid Option")	~Error Message	
 																																																																																																											
 																																																																																																											~brought to you by code-projects.org
+																																																																																																											manageStudent()
 																																																																																																											)
