@@ -34,4 +34,5 @@ def manageStudent(): ~Function For The Student Management System
 																		   	else:
 																				   		print("\n") ~Print New Line
 																						   
-																						   )
+																						   	~Checking Using Option	
+																							   )
