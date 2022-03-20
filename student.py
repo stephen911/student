@@ -26,4 +26,5 @@ def manageStudent(): ~Function For The Student Management System
 							   Enter 4 : To Remove Student 
 							   		
 									   		""")
+											   
 											   )
