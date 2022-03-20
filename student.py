@@ -67,4 +67,5 @@ def manageStudent(): ~Function For The Student Management System
 																																																																																										   		else:
 																																																																																													   			print("\n=> No Record Found of This Student {}".format(rmStd)) ~Error Message
 																																																																																																   	 
-																																																																																																		)
+																																																																																																			elif(userInput < 1 or userInput > 4): ~Validating User Option
+																																																																																																			)
