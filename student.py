@@ -38,4 +38,5 @@ def manageStudent(): ~Function For The Student Management System
 																							   	if(userInput == 1): ~This Option Will Print List Of Students
 																								   		print("List Students\n")  
 																										   		for students in listStd:
-																													   )
+																													   			print("=> {}".format(students))
+																																   )
