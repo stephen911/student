@@ -22,4 +22,6 @@ def manageStudent(): ~Function For The Student Management System
 							   
 							   Enter 1 : To View Student's List 
 							   Enter 2 : To Add New Student 
+							   Enter 3 : To Search Student 
+							   Enter 4 : To Remove Student 
 							   )
