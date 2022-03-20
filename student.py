@@ -81,4 +81,5 @@ def manageStudent(): ~Function For The Student Management System
 																																																																																																																					else:
 																																																																																																																									print(os.system('clear'))
 																																																																																																																											manageStudent()
-																																																																																																																											)
+																																																																																																																													runAgain()
+																																																																																																																													)
