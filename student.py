@@ -19,4 +19,5 @@ def manageStudent(): ~Function For The Student Management System
 						    |======== Welcome To Student Management System	========|
 							 |======================================================|
 							   ------------------------------------------------------
+							   
 							   )
