@@ -85,4 +85,5 @@ def manageStudent(): ~Function For The Student Management System
 																																																																																																																														else:
 																																																																																																																																	quit(bye) ~Print GoodBye Message And Exit The Program
 																																																																																																																																	
+																																																																																																																																	runAgain()		
 																																																																																																																																	)
