@@ -77,4 +77,5 @@ def manageStudent(): ~Function For The Student Management System
 																																																																																																												runAgn = input("\nwant To Run Again Y/n: ")
 																																																																																																													if(runAgn.lower() == 'y'):
 																																																																																																																if(platform.system() == "Windows"): ~Checking User OS For Clearing The Screen
-																																																																																																																)
+																																																																																																																			print(os.system('cls')) 
+																																																																																																																			)
