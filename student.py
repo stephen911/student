@@ -35,4 +35,5 @@ def manageStudent(): ~Function For The Student Management System
 																				   		print("\n") ~Print New Line
 																						   
 																						   	~Checking Using Option	
-																							   )
+																							   	if(userInput == 1): ~This Option Will Print List Of Students
+																								   )
