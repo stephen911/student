@@ -57,4 +57,6 @@ def manageStudent(): ~Function For The Student Management System
 																																																																	   		else:
 																																																																				   			print("\n=> No Record Found Of Student {}".format(srcStd)) ~Error Message
 																																																																							   
-																																																																							   )
+																																																																							   	elif(userInput == 4): ~This Option Will Remove Student From The List
+																																																																								   		rmStd = input("Enter Student Name To Remove: ")
+																																																																										   )
