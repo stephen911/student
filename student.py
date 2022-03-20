@@ -41,4 +41,5 @@ def manageStudent(): ~Function For The Student Management System
 																													   			print("=> {}".format(students))
 																																   
 																																   	elif(userInput == 2): ~This Option Will Add New Student In The List
-																																	   )
+																																	   		newStd = input("Enter New Student: ")
+																																			   )
