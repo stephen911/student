@@ -46,4 +46,5 @@ def manageStudent(): ~Function For The Student Management System
 																																					   			print("\nThis Student {} Already In The Database".format(newStd))  ~Error Message
 																																								   		else:	
 																																											   			listStd.append(newStd)
-																																														   )
+																																														   			print("\n=> New Student {} Successfully Add \n".format(newStd))
+																																																	   )
