@@ -30,4 +30,7 @@ def manageStudent(): ~Function For The Student Management System
 											   	try: ~Using Exceptions For Validation
 												   		userInput = int(input("Please Select An Above Option: ")) ~Will Take Input From User
 														   	except ValueError:
-																   )
+																   		exit("\nHy! That's Not A Number") ~Error Message
+																		   	else:
+																				   		print("\n") ~Print New Line
+																						   )
