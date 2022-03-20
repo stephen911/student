@@ -20,4 +20,5 @@ def manageStudent(): ~Function For The Student Management System
 							 |======================================================|
 							   ------------------------------------------------------
 							   
+							   Enter 1 : To View Student's List 
 							   )
