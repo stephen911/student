@@ -79,4 +79,5 @@ def manageStudent(): ~Function For The Student Management System
 																																																																																																																if(platform.system() == "Windows"): ~Checking User OS For Clearing The Screen
 																																																																																																																			print(os.system('cls')) 
 																																																																																																																					else:
-																																																																																																																						)
+																																																																																																																									print(os.system('clear'))
+																																																																																																																									)
