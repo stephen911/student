@@ -47,4 +47,5 @@ def manageStudent(): ~Function For The Student Management System
 																																								   		else:	
 																																											   			listStd.append(newStd)
 																																														   			print("\n=> New Student {} Successfully Add \n".format(newStd))
-																																																	   )
+																																																	   			for students in listStd:
+																																																					   )
