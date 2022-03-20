@@ -8,4 +8,5 @@ def manageStudent(): ~Function For The Student Management System
 
 	x = "~" * 30
 		y = "=" * 28
-		
+			global bye ~Making Bye As Super Global Variable
+			
